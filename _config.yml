@@ -13,10 +13,9 @@ author: Georges Alsankary
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Links:
     - Resume: "/assets/pdf/georges_alsankary_resume.pdf"
     - Github: "https://github.com/galsanka/"
-  Author's home: "https://ggeorg.es"
 
 # --- Logo --- #
 
@@ -47,7 +46,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: georgesankary
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
