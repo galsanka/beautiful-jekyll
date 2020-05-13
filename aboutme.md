@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Georges Alsankary. I am a graduate student in Computer Enigneering at Texas A&M. I graduated from Notre Dame in 2020 with a BS in Computer Engineering.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have interests in broader computer engineering topics like computer architecture and embedded syste,s. I haven't chosen an area of specialization, but I love working in hardware-software codesign. Specifically, a big interest of mine would be optimizing hardware for scientific computing.
