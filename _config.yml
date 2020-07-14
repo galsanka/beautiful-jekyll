@@ -12,6 +12,7 @@ author: Georges Alsankary
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "blog"
   About Me: "aboutme"
   Links:
     - Resume: "/assets/pdf/georges_alsankary_resume.pdf"
