@@ -12,6 +12,7 @@ author: Georges Alsankary
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Great Books: "/tags/#great-books"
   Blog: "blog"
   About Me: "aboutme"
   Links:
