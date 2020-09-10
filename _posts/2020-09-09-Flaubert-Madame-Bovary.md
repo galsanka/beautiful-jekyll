@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Madame Bovary* by Gustave Flaubert
+title: Madame Bovary by Gustave Flaubert
 cover-img: "/assets/img/madame-bovary.jpg"
 tags: great-books
 ---
