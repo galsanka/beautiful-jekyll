@@ -15,4 +15,4 @@ When I started asking some questions, all my answers were “I don’t know” -
 
 Unfortunately, the more I think of the events that transpired, the less capable I am to comprehend them. I wandered through a quicksand, and as I sink deeper and deeper, a cruel and laughing creature is shoveling dirt at my face. Any clarity is only illusory, and merely a step towards another puddle. I was already struggling with navigating the pandemic, but the ice I’ve been gliding on is getting thinner. 
 
-This reflection provided my absolutely no answer, and I also suspect it provided you with none. At this point. I’m thinking that the way out is to stop sitting on these questions, get up and move on. My circumstances will always tie me to my questions, but right now, I owe myself serenity. But is an unexamined life worth living? I don’t know, man. 
+This reflection gave no answer, and I also suspect it provided you with none. At this point. I’m thinking that the way out is to stop sitting on these questions, get up and move on. My circumstances will always tie me to my questions, but right now, I owe myself serenity. But is an unexamined life worth living? I don’t know, man. 

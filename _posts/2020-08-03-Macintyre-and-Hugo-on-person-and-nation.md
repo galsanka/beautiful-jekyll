@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Macintyre and Hugo on person and nation
+cover-img: "/assets/img/les-miserables.jpg"
+tags: great-books
 ---
 Victor Hugo had more than one story to tell in *Les Misérables*. The thousand-plus pages can be read as a historical-fiction account of post-revolutionary France, a biography of Jean Valjean, or more abstractly - like Charles Baudelaire did - as a work on the virtue of charity. Because I’m a Christian who has read and loved MacIntyre’s *After Virtue*, I read it as a study in characterization closely related to a nation’s history. 
 

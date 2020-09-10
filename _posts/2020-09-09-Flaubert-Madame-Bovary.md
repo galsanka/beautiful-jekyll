@@ -1,0 +1,17 @@
+---
+layout: post
+title: *Madame Bovary* by Gustave Flaubert
+cover-img: "/assets/img/madame-bovary.jpg"
+tags: great-books
+---
+*Madame Bovary* is first and foremost a thinly veiled mockery of the French middle class' kitsch and misplaced ambition, scrutinized by the keen eye of an umpire who simply knows better. This umpire intimately familiar with the behavior of the petit-bourgeois. The book is also, at points, shockingly spiteful of this very specific population that possesses enough to practice most forms of leisure, but not enough to live it every day.  
+
+Flaubert’s distaste for people like Emma is a strong reaction to the often-seen phenomenon of middle-class social seeking. The novel continuously states this pretension whenever people of different classes interact, whenever they understand themselves as part of one class, and whenever Emma expresses ambitions to climb the social ladder. A class analysis of *Madame Bovary* essentially writes itself, which is why I will not bother writing one. Instead, there’s a lot that can be said about character – and how Emma’s mediocrity led to her ultimate downfall.  
+
+Flaubert disliked most of his characters, since he made them all irredeemable. This cynical dislike was especially strong in Emma. He continuously mentioned her beauty as her biggest asset because that’s how many mediocre souls start to accumulate their flaws: they can charm whoever comes in their way as long as they know only slightly less. Had Emma been born into wealth, she’d be a fully realized version of herself. Had she been less attractive, she’d not have those aspirations. Had she been married to someone slightly more emotionally intelligent then Charles, she’d be a happy spouse. Her circumstances generated the character we all love to hate: unmoderated ambition with absolutely no means to satisfy it. There’s a tragedy (and a comedy) hidden in there, but we are too busy disliking Emma to entertain her tragic heroism. 
+
+Then, what could Emma be beyond heavy-handed social commentary? Any meaningful understanding of the book requires acknowledging the presence of such dynamics. It is a story that aged remarkably well: there’s very little difference between Emma and the droves of young social climbers seeking fame and fortune. Reimagining Emma today would be trivial: she’d have social media accounts and run a lifestyle blog. 
+
+What is then the moral of *Madame Bovary* beyond not going into ruinous debt? There’s a valuable lesson in understanding where we stand in the order of things and how we interact with people of different circumstance. It is easy and even encouraged to be inauthentic to people who can’t be bothered to know better, but this inauthenticity can poison our self-perception and damage us. Pretending one’s origins are different than what they are might be advantageous if done right, but the consequences of are always grave. Beyond gaining the derision of people both better and worse than one is, and there’s no chance to reflect and truly understand oneself. 
+
+There’s nothing more precious than the truth to oneself, and that honesty is the only way we can pay our due to our origins and peers. Claiming experiences we’ve never had can only ruin what we can become. 
