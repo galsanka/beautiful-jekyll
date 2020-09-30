@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Madame Bovary by Gustave Flaubert
+title: Middlemarch by George Eliot
 cover-img: "/assets/img/middlemarch.jpg"
 tags: great-books
 ---
